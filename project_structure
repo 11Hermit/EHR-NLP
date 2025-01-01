@@ -1,0 +1,12 @@
+ehr_nlp/
+├── data/
+│   ├── raw/                # Raw EHR data
+│   └── processed/          # Preprocessed data
+├── src/
+│   ├── preprocessing/      # Data preprocessing scripts
+│   ├── models/            # Model implementations
+│   ├── evaluation/        # Evaluation metrics
+│   └── utils/             # Utility functions
+├── notebooks/             # Jupyter notebooks for analysis
+├── requirements.txt       # Project dependencies
+└── README.md             # Project documentation 
